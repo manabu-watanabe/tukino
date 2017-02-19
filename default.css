@@ -1,0 +1,37 @@
+.header_banner img {
+  width: 45%;
+  height: auto;
+}
+
+.room img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 480;
+  height: 640;
+}
+
+.room img.lv0 {
+  z-index: 0;
+}
+.room img.lv1 {
+  z-index: 10;
+}
+.room img.lv2 {
+  z-index: 20;
+}
+
+.room img.lv3 {
+  z-index: 30;
+}
+
+.room img.lv4 {
+  z-index: 30;
+}
+.room img.lv5 {
+  z-index: 30;
+}
+
+.room img.lv6 {
+  z-index: 30;
+}
